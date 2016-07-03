@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaihenzler/angular-minicolors.git"
+    "url": "git+https://github.com/shabith/angular-minicolors.git"
   },
   "keywords": [
     "angular",
@@ -21,9 +21,9 @@
   "author": "Kai Henzler <kai.henzler@gmx.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kaihenzler/angular-minicolors/issues"
+    "url": "https://github.com/shabith/angular-minicolors/issues"
   },
-  "homepage": "https://github.com/kaihenzler/angular-minicolors#readme",
+  "homepage": "https://github.com/shabith/angular-minicolors#readme",
   "dependencies": {
     "jquery-minicolors": "^2.1.10",
     "angular": "^1.4.0"
