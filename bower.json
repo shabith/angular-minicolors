@@ -16,7 +16,8 @@
   ],
   "main": "angular-minicolors.js",
   "dependencies": {
-    "jquery-minicolors": "2.1.7"
+    "jquery-minicolors": "2.1.7",
+    "angular": "^1.4.0"
   },
   "license": "MIT",
   "ignore": [
